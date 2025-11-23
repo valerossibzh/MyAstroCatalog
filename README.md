@@ -1,4 +1,4 @@
-![logo](https://myastrocatalog.ddns.net/Logos/logo7.png)
+![logo](https://myastrocatalog.ddns.net/Logos/logo8.png)
 
 # MyAstroCatalog
 
