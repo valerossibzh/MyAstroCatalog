@@ -1,4 +1,4 @@
-![logo](https://myastrocatalog.ddns.net/Logos/logoSquare.png)
+![logo](https://myastrocatalog.ddns.net/Logos/FacebookHome.jpg)
 
 # MyAstroCatalog
 
